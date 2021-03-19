@@ -1,0 +1,75 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@450&display=swap');
+
+.inner {
+    max-width: 900px;
+    font-size: 20px;
+}
+
+#main_content {
+    padding: 60px 0;
+    font-family: 'Quicksand',Arial,Helvetica,sans-serif;
+    letter-spacing: 0.01em;
+}
+
+p {
+    margin: 0 0 20px 0;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    margin: 60px 0 20px 0; 
+    background-position: right 0 bottom -5px;
+}
+
+h3 {
+    margin: 40px 0 20px 0;
+    text-decoration: underline;
+}
+
+.sample-container {
+    text-align: center;
+
+    .sample-row {
+        margin: 30px 0 10px;
+
+        img.sample {
+            max-height: 500px;
+        }
+    }
+
+    .price-tag {
+        font-size: 22px;
+    }
+}
+
+ol, ul {
+    line-height: 1.75em;
+}
+
+.dos, .donts {
+    list-style-type: none;
+
+    :before {
+        margin-left: -20px;
+        margin-right: 10px;
+    } 
+}
+
+.dos {
+    :before {
+        content: '✓';
+    }
+}
+
+.donts {
+    :before {
+        content: '✗';
+    }
+}
