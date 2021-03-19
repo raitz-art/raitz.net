@@ -1,5 +1,5 @@
 
-Hello, I'm Raitz. Thank you for checking my info page! Below you can find what kinds of works I do and how much they are. 
+Hello, I'm Raitz. Thank you for checking my info page! Below you can find what kinds of works I do and how much they are.
 
 If you're interested, or have any other questions, please email me at [me@raitz.net](mailto:me@raitz.net) or leave me a DM on Twitter: [@RaitzArt](https://twitter.com/RaitzArt).
 
@@ -20,7 +20,7 @@ With interaction between characters and/or background.
 ![illustration_2](/assets/sample/illustration_2.jpg){: .sample}
 {: .sample-row}
 
-<div class="price-tag" markdown="0">$120 - $180</div>
+<div class="price-tag" markdown="0">$100 - $150</div>
 
 </div>
 
@@ -34,9 +34,9 @@ Single character with abstract background.
 ![character_shot_2](/assets/sample/character_shot_2.jpg){: .sample}
 {: .sample-row}
 
-<div class="price-tag" markdown="0">Neck-Up: $50</div>
-<div class="price-tag" markdown="0">Chest-Up/Waist-Up: $75</div>
-<div class="price-tag" markdown="0">Full-Body: $100</div>
+<div class="price-tag" markdown="0">Neck-Up: $40</div>
+<div class="price-tag" markdown="0">Chest-Up/Waist-Up: $60</div>
+<div class="price-tag" markdown="0">Full-Body: $80</div>
 
 </div>
 
@@ -88,7 +88,7 @@ Lineart only or with very simple flat colors.
 ## Process
 
 - We discuss your commission and clarify things.
-- Once we agree on the price, you need to pay at least 50% upfront before I start working on it. Orders lower than $100 require upfront in full. 
+- Once we agree on the price, you need to pay at least 50% upfront before I start working on it. Orders lower than $100 require upfront in full.
 - I'll send you a rough sketch. You can request for up to 2 major revisions.
 - Once the skecth is approved, only minor revisions/corrections are accepted.
 - I'll keep you updated until the work is done.
