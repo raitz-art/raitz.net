@@ -16,8 +16,8 @@ All the prices listed below are just for reference. The price for a certain work
 With interaction between characters and/or background.
 
 <div class="sample-container" markdown="1">
-![illustration_1](/assets/sample/illustration_1.png){: .sample}
-![illustration_2](/assets/sample/illustration_2.png){: .sample}
+![illustration_1](/assets/sample/illustration_1.jpg){: .sample}
+![illustration_2](/assets/sample/illustration_2.jpg){: .sample}
 {: .sample-row}
 
 <div class="price-tag" markdown="0">$120 - $180</div>
@@ -30,8 +30,8 @@ With interaction between characters and/or background.
 Single character with abstract background.
 
 <div class="sample-container" markdown="1">
-![character_shot_1](/assets/sample/character_shot_1.png){: .sample}
-![character_shot_2](/assets/sample/character_shot_2.png){: .sample}
+![character_shot_1](/assets/sample/character_shot_1.jpg){: .sample}
+![character_shot_2](/assets/sample/character_shot_2.jpg){: .sample}
 {: .sample-row}
 
 <div class="price-tag" markdown="0">Neck-Up: $50</div>
@@ -46,8 +46,8 @@ Single character with abstract background.
 Lineart only or with very simple flat colors.
 
 <div class="sample-container" markdown="1">
-![flat_1](/assets/sample/flat_1.png){: .sample}
-![flat_2](/assets/sample/flat_2.png){: .sample}
+![flat_1](/assets/sample/flat_1.jpg){: .sample}
+![flat_2](/assets/sample/flat_2.jpg){: .sample}
 {: .sample-row}
 
 <div class="price-tag" markdown="0">$20 - $40</div>
