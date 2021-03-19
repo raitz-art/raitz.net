@@ -20,7 +20,7 @@ With interaction between characters and/or background.
 ![illustration_2](/assets/sample/illustration_2.png){: .sample}
 {: .sample-row}
 
-<div class="price-tag" markdown="0">$150 - $200</div>
+<div class="price-tag" markdown="0">$120 - $180</div>
 
 </div>
 
@@ -34,9 +34,9 @@ Single character with abstract background.
 ![character_shot_2](/assets/sample/character_shot_2.png){: .sample}
 {: .sample-row}
 
-<div class="price-tag" markdown="0">Neck-Up: $60</div>
-<div class="price-tag" markdown="0">Chest-Up/Waist-Up: $90</div>
-<div class="price-tag" markdown="0">Full-Body: $120</div>
+<div class="price-tag" markdown="0">Neck-Up: $50</div>
+<div class="price-tag" markdown="0">Chest-Up/Waist-Up: $75</div>
+<div class="price-tag" markdown="0">Full-Body: $100</div>
 
 </div>
 
@@ -57,11 +57,12 @@ Lineart only or with very simple flat colors.
 
 ## Discounts and Addons
 
-- Vtuber fanart commissions, especially Artemis or Hololive-related, may get a discount.
+- "Stylize my photo" kind of work gets a significant discount. (Please make sure you have the right to use the photo.)
+- Vtuber fanart, especially Artemis or Hololive-related, may get a discount.
 - If you trust me so much that you are willing to accept my work as it is (no revision/correction, no specific style), you get a discount.
 - NSFW works charge for more.
-- Works for business use charges for more.
-- Uncommon angles, complex details and additional characters charges more.
+- Works for business use charge for more.
+- Uncommon angles, complex details and additional characters charge more.
 
 
 ## Do's and Don'ts
